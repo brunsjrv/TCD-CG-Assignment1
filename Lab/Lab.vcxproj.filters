@@ -112,5 +112,7 @@
     <CopyFileToFolders Include="blender\table.obj">
       <Filter>blender</Filter>
     </CopyFileToFolders>
+    <CopyFileToFolders Include="freeglut\bin\freeglut.dll" />
+    <CopyFileToFolders Include="glew-1.10.0\bin\Release\Win32\glew32.dll" />
   </ItemGroup>
 </Project>
